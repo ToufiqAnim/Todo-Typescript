@@ -1,7 +1,14 @@
-.App {
-  text-align: center;
+ .App {
+  color: white;
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+body{
+  background-color: #61dafb;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
